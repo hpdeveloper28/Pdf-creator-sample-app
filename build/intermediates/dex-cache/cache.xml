@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android-sdk-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hiren.patel\AndroidStudioProjects\Android-Text-to-PDF-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-0eb2b07fd552ea165fd0d4c867636f30ca0dffd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\hiren.patel\AndroidStudioProjects\Android-Text-to-PDF-master\app\libs\itextpdf-5.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6707823d598a75eb9959635b72d45dc318714a09">
+        <dex dex="C:\Users\hiren.patel\AndroidStudioProjects\Android-Text-to-PDF-master\app\build\intermediates\pre-dexed\debug\itextpdf-5.3.3-ff12a9b7630590cb28237613b06d7617621824ae.jar" />
+    </item>
+
+</items>
